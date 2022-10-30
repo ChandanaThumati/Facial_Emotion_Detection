@@ -30,4 +30,8 @@ we will build a Convolution Neural Network (CNN) architecture and train the mode
 
 
 
+![image](https://user-images.githubusercontent.com/61639134/198889879-2abce635-de7b-4863-9c79-b41c726a710a.png)
+
+
+
 
