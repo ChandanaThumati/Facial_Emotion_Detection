@@ -20,7 +20,7 @@ The data consists of 48x48 pixel grayscale images of faces. The faces have been 
 
 The training set consists of 28.709 examples. The public test set used for the leaderboard consists of 3,589 examples. The final test set, which was used to determine the winner of the competition, consists of another 3.589 examples. This dataset was prepared by Pierre-Luc Carrier and Aaron Courville, as part of an ongoing research project.
 
-we will build a Convolution Neural Network (CNN) architecture and train the model on FER2013 dataset for Emotion recognition from images.
+we will build a Convolution Neural Network (CNN) architecture and train the model on [FER2013](https://www.kaggle.com/msambare/fer2013) dataset for Emotion recognition from images.
 
 ## Facial Emotion Recognition by CNN
 
