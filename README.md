@@ -24,5 +24,10 @@ we will build a Convolution Neural Network (CNN) architecture and train the mode
 
 ## Facial Emotion Recognition by CNN
 
+![FER](https://user-images.githubusercontent.com/61639134/198889689-88912761-a507-481b-ac37-745c94b55a82.PNG)
+
+## Output And Statistics
+
+
 
 
